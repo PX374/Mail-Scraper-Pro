@@ -32,4 +32,19 @@ mailxtractorpro.exe --help
 cd Downloads
 mailxtractorpro.exe -name_list name.txt -country_code fr -domaine_name @orange.fr -out mail_comptable_fr
 ```
+> Hope you enjoy using this tool
+![Simple capture](M2.PNG)
 
+## Who is this program destined to ?
+- Web Marketing Agency ( IT Staf ) 
+- Student ( computer science, marketing, Informatic etc ... )
+- Teacher
+- And anyone who won't lead for mail marketing campaign
+
+I don't incite anyone to use the tool for real life hacking and are not responsible of damage caused by this software. use it at your onw risk.
+
+## Buy Me A Coffe
+Perfect Money : U289663800 BTC : bc1qxm4e7fr0w9vv73qn4lmnxp4u5ekgndxx33trhk
+
+## Contact info :
+email : prof.alex.wolf@gmail.com whatsapp : https://wa.me/+22672587871
