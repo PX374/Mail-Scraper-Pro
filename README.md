@@ -43,6 +43,13 @@ mailxtractorpro.exe -name_list name.txt -country_code fr -domaine_name @orange.f
 
 I don't incite anyone to use the tool for real life hacking and are not responsible of damage caused by this software. use it at your onw risk.
 
+## Next Step
+
+- Adding project Gui
+- Adding filetype designation
+- Adding most probable data source
+
+
 ## Buy Me A Coffe
 Perfect Money : U289663800 BTC : bc1qxm4e7fr0w9vv73qn4lmnxp4u5ekgndxx33trhk
 
