@@ -1,2 +1,24 @@
 # Mail-Scraper-Pro
+
 As a mail or web marketer, you literally need to collect leads for your large campaign or advertising plan. Most internet mail-based workers use most of the time internet to scrap for mail addresses they can use for Growth prospection. Mail Scraper Pro is a simple easy to use tool for scraping more than 20K mail a simple day depending on your network connection. A friendly command-line tool that even no coder people can use. The software is portable and doesn't need to be installed on your device.  so increase your mail scraping rate now.....
+
+## Welcome to Mail Scraper Pro Project
+
+I start this project in 2020, because on of my friend (Mail marketer) ask me for a way to automatising the process of mail scraping so i start coding this software.It is an open source project,  mean open to any kind or type of contribution  .
+
+## Features
+
+- Importing a wordlist (Afine your search by including comon human name or entreprise specific key word)
+- Geospatial Area restriction ( You can specify the country in wich you want your prospect to be )
+- Domaine name ( Make a domaine name specific search like @gmail.com or @swisscom.ch )
+- Saving the output of the search to a text file
+
+## Installation
+
+First download the mailxtractor.exe file in this repostory
+Then lunch windows command line and type the following code 
+
+```sh
+cd Downloads
+mailxtractorpro.exe --help
+```
