@@ -22,3 +22,14 @@ Then lunch windows command line and type the following code
 cd Downloads
 mailxtractorpro.exe --help
 ```
+
+> You should get this as result :
+![Simple capture](M1.PNG)
+
+## Demo
+
+```sh
+cd Downloads
+mailxtractorpro.exe -name_list name.txt -country_code fr -domaine_name @orange.fr -out mail_comptable_fr
+```
+
